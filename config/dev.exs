@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :rumbl, Rumbl.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "alejandro",
+  password: "rumbl",
   hostname: "localhost",
   database: "rumbl_dev",
   stacktrace: true,
