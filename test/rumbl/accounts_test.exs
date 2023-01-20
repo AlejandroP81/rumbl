@@ -1,5 +1,5 @@
 defmodule Rumbl.AccountsTest do
-  use Rumbl.DataCase, asyn: true
+  use Rumbl.DataCase, async: true
 
   alias Rumbl.Accounts
   alias Rumbl.Accounts.User
